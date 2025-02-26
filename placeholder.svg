@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400">
+  <style>
+    .wardrobe {
+      fill: none;
+      stroke: #FFFFFF;
+      stroke-width: 2;
+    }
+  </style>
+  <rect class="wardrobe" x="50" y="50" width="400" height="300" rx="20" />
+  <line class="wardrobe" x1="150" y1="150" x2="150" y2="250" />
+  <line class="wardrobe" x1="350" y1="150" x2="350" y2="250" />
+  <line class="wardrobe" x1="150" y1="150" x2="350" y2="150" />
+  <line class="wardrobe" x1="150" y1="250" x2="350" y2="250" />
+  <circle class="wardrobe" cx="150" cy="100" r="20" />
+  <circle class="wardrobe" cx="350" cy="100" r="20" />
+</svg>
